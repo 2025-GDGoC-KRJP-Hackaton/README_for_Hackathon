@@ -54,3 +54,7 @@ Open source allows us to:
 
 Thank you for contributing to this collaborative journey.  
 Let’s build the bridge—together.
+
+<img src="https://github.com/user-attachments/assets/da629910-5ca7-4edf-a2fd-54b177a4a38b" width="500" height="605">
+
+
